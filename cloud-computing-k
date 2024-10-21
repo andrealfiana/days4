@@ -1,8 +1,9 @@
 kerangka mata kuliah cloud computing
 ^karakteristik cloud computing
 =>skalabelitas
-=>skalabelitas vertical
-=>skalabelitas horizontal
+====>skalabelitas vertical
+=====>skalabelitas horizontal
+=>limitless
 =>realibility
 =>availbility
 ^jenis-jenis layanan cloud computing
